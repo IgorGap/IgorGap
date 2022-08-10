@@ -32,9 +32,9 @@
 ### Connect with me:
 
 
-<a href="https://t.me/Igor_Gap"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="50px" /></a>
-<a href="https://wa.me/79672451516"><img src="https://flyclipart.com/thumbs/whatsapp-share-button-whatsapp-flat-icon-1033370.png" width="50px" /></a>
-<a href="mailto:ig.gaponenko@gmail.com"><img src="https://img2.freepng.ru/20180330/exq/kisspng-gmail-computer-icons-email-google-gmail-5abe0b61876325.5365481615224041935546.jpg" width="50px" /></a>
+<a href="https://t.me/Igor_Gap"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="40px" /></a>
+<a href="https://wa.me/79672451516"><img src="https://flyclipart.com/thumbs/whatsapp-share-button-whatsapp-flat-icon-1033370.png" width="40px" /></a>
+<a href="mailto:ig.gaponenko@gmail.com"><img src="https://img2.freepng.ru/20180330/exq/kisspng-gmail-computer-icons-email-google-gmail-5abe0b61876325.5365481615224041935546.jpg" width="40px" /></a>
 
 
 <br />
