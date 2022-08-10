@@ -43,10 +43,10 @@
 
 <summary>:zap: Statistics:</summary>
 <div id="header" align="center">
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
 </div>
 <div id="header" align="center">
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgorGap&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgorGap&count_private=true&show_icons=true&theme=tokyonight" />
 </div>
 
 
