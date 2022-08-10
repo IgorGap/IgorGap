@@ -5,7 +5,7 @@
 </div>
 <br />
 
-### I'm a FrontEnd Developer
+## I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🏃🏻 I love running and triathlon
 
@@ -41,13 +41,10 @@
 
 <br />
 
-###Statistics
-<div id="header" align="center">
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
-</div>
-<div id="header" align="center">
-<img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgorGap&count_private=true&show_icons=true&theme=tokyonight" />
-</div>
+### Statistics
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgorGap&count_private=true&show_icons=true&theme=tokyonight" />
+
 
 
 
