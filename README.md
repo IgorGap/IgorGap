@@ -46,8 +46,8 @@
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
 </details>
-[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGap&count_private=true&show_icons=true&theme=tokyonight)]
-
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorGap&count_private=true&show_icons=true&theme=tokyonight)
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
 
 
 
