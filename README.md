@@ -5,7 +5,7 @@
 </div>
 <br />
 
-## I'm a FrontEnd Developer
+### I'm a FrontEnd Developer
 - 💪 I like to write code
 - 🏃🏻 I love running and triathlon
 
@@ -41,7 +41,7 @@
 
 <br />
 
-###<summary>:zap: Statistics:</summary>
+###Statistics
 <div id="header" align="center">
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
 </div>
