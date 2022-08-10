@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Igor!
 <br />
-<div id="header">
-  <img src="https://i.gifer.com/origin/b2/b2a7f36f3552654689831af14f3aa91d_w200.webp" width="200"/>
+<div id="header" align="center">
+  <img src="https://i.gifer.com/origin/b2/b2a7f36f3552654689831af14f3aa91d_w200.webp" width="250"/>
 </div>
 <br />
 
