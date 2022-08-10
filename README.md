@@ -8,9 +8,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="IgorGap | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="IgorGap | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="IgorGap | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://t.me/Igor_Gap"><img src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" width="50px" /></a>
+<a href="https://wa.me/79672451516"><img src="https://flyclipart.com/thumbs/whatsapp-share-button-whatsapp-flat-icon-1033370.png" width="50px" /></a>
+<a href="mailto:ig.gaponenko@gmail.com"><img src="https://img2.freepng.ru/20180330/exq/kisspng-gmail-computer-icons-email-google-gmail-5abe0b61876325.5365481615224041935546.jpg" width="50px" /></a>
 
 
 <br />
@@ -46,12 +46,8 @@
 <details>
   <summary>:zap: Statistics:</summary>
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IgorGapv&show_icons=true" />
 </details>
 
-[linkedin]: https://www.linkedin.com/in/igor-gaponenko-6138998a/
-[gmail]: https://mail.google.com/mail/u/0/#inbox
-[instagram]: https://www.instagram.com/igor__gap/
+
 
 
