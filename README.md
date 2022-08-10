@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Igor
+### Hi there 👋, I'm Igor!
 
 ## I'm a FrontEnd Developer
 - 💪 I like to write code
