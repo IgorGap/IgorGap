@@ -41,7 +41,7 @@
 
 <br />
 
-<summary>:zap: Statistics:</summary>
+###<summary>:zap: Statistics:</summary>
 <div id="header" align="center">
 <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGap&langs_count=8&layout=compact" />
 </div>
