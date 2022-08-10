@@ -5,6 +5,10 @@
 - 🏃🏻 I love running and triathlon
 
 <br />
+<div id="header" align="center">
+  <img src="https://i.gifer.com/origin/b2/b2a7f36f3552654689831af14f3aa91d_w200.webp" width="200"/>
+</div>
+<br />
 
 ### Languages and Tools:
 
